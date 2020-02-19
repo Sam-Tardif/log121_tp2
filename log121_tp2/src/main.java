@@ -1,4 +1,4 @@
-package log121_tp2;
+
 
 public class main {
 
